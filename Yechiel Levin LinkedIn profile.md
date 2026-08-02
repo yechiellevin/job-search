@@ -20,6 +20,102 @@ Before becoming a technical writer, I spent nearly two decades working in cybers
 
 I see documentation—and the thoughtful use of AI—as part of a broader objective: helping people get the knowledge they need, when and where they need it, and in a form they can use.
 
+## Experience
+
+This section reflects the status of this section of my LinkedIn profile BEFORE I overwrote it with a copy/paste from my newly revised print CV. I include it here as a reference for when we formally edit it.
+
+### Senior Technical Writer (Contract), CyberArk, 2025-2026
+
+- Owned the full documentation set for Privileged Access Manager – Self-Hosted (PAM-SH) and CyberArk Remote Access, including user guides, administrator documentation, API docs, release notes, and UX microcopy.
+
+- Partnered closely with Product Owners, Product Managers, UX designers, and Customer Success teams to ensure documentation accuracy, usability, and alignment with customer needs.
+
+- Led a major information architecture redesign, transitioning documentation from a product/feature-based structure to a user journey and outcome-driven model, significantly improving navigation and content discoverability.
+
+- Elevated documentation quality by rewriting and editing for clarity, precision, and technical accuracy, contributing to a reduction in support ticket response time.
+
+- Leveraged custom GPT-based workflows to reanalyze documentation strategy from first principles, and iteratively refined AI-assisted processes for research, drafting, and editing.
+
+- Authored and maintained API documentation using Swagger/OpenAPI as a source.
+
+- Initiated improvements to release notes workflows, streamlining cross-team collaboration for content collection and publication.
+
+- Collaborated with UX on microcopy and interface text, influencing product design decisions in at least one case.
+
+- Incorporated direct customer and field feedback into documentation updates, working in coordination with product and customer-facing teams.
+
+- Contributed to documentation updates as part of a major rebranding initiative following CyberArk’s acquisition by Palo Alto Networks.
+
+- Worked within a docs-as-code environment using MadCap Flare, Git/GitHub, VS Code, Markdown, and Jenkins publishing pipelines.
+
+#### Skills
+
+- Custom GPTs
+- MadCap Flare
+- Technical Documentation
+- Communication
+- Technical Publication
+
+### Content Developer (Technical Writer), Microsoft, 2020-2025
+
+- Created, edited, updated, and curated online and in-product documentation for Microsoft cloud-based security services and SIEM/XDR solutions, through deep collaboration with product managers, engineers, marketing, and support professionals to design and drive top business goals and scenarios into tangible solution-based content for customers.
+
+- Performed hands-on product testing and deep analysis in collaboration with product engineers to drive improvements in the products themselves and accuracy in the documentation.
+
+- Helped prioritize work across security service content team writers, including responsibility for training writers in the technologies needed to create cross-service, end-to-end, solution-based scenarios.
+
+- Served as technical lead on team, for the benefit of writers with less technical background, and helped train and onboard new colleagues to writing team. Trained product managers to use self-service documentation solutions to reduce team workload.
+
+- Adopted AI writing, editing, and management solutions to automate and optimize work and deliverables.
+
+- Presented a product demonstration to a large, live audience at Microsoft Ignite conference.
+
+#### Skills
+
+- Microsoft Sentinel
+- Microsoft Defender XDR
+- GitHub
+- Markdown
+- Structured Authoring
+- Microsoft Visual Studio Code
+
+### Various Cybersecurity Roles, Various Organizations, 2001-2019
+
+#### Roles
+
+- InfoSec Architect and Tier 3 Solutions Support -- Isracard Group, Tel Aviv
+- InfoSec Consultant, Defense Sector -- HP Enterprise Services, Raanana
+- Application Security Infrastructure Specialist -- Bank Hapoalim, Tel Aviv
+- Security and Networking Engineer -- Israel Postal Company, Jerusalem
+- Information Security Analyst -- Central Bureau of Statistics, Jerusalem
+
+#### Activities
+
+- Designed and implemented secure network architectures and security controls across a wide range of enterprise environments and sectors (finance, government, defense, logistics).
+
+- Authored and maintained technical documentation, operational procedures, security policies, and system specifications for internal and external audiences.
+
+- Evaluated security requirements for projects and performed gap analysis, penetration test reviews, and compliance assessments (e.g., PCI, SOX).
+
+- Supported security infrastructure at Tier 3 level, including installation, operation, troubleshooting, and upgrades of enterprise security products.
+
+- Conducted forensic investigations, risk assessments, and vulnerability analyses; documented findings and remediations.
+
+- Collaborated cross-functionally with IT, engineering, and compliance teams to ensure secure and functional network and system design.
+
+- Led and contributed to documentation and knowledge base development, network diagrams, and systems mapping initiatives.
+
+#### Skills
+
+- Information Security
+- Information Security Management
+- Application Security
+- Network Security
+- Security Awareness
+- Security Architecture Design
+- Security Policy
+- Information Security Consulting
+
 ## Reference
 
 ### North Star
