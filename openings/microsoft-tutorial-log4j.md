@@ -68,26 +68,28 @@ To complete this tutorial, make sure you have:
 
 - In the **Set rule logic** tab, review the query as it appears under the **Rule query** heading.
 
-    To see more of the query text at one time, select the diagonal double-arrow icon at the upper right corner of the query window to expand the window to a larger size.
+  To see more of the query text at one time, select the diagonal double-arrow icon at the upper right corner of the query window to expand the window to a larger size.
 
-    [![Screenshot of the Set rule logic tab of the Analytics rule wizard.](media/tutorial-log4j-detection/set-rule-logic-tab.png)](media/tutorial-log4j-detection/set-rule-logic-tab.png#lightbox)
+  [![Screenshot of the Set rule logic tab of the Analytics rule wizard.](media/tutorial-log4j-detection/set-rule-logic-tab.png)](media/tutorial-log4j-detection/set-rule-logic-tab.png#lightbox)
 
-    For more information on KQL, see [Kusto Query Language (KQL) overview](/en-us/kusto/query/?view=microsoft-sentinel&amp;preserve-view=true).
+  For more information on KQL, see [Kusto Query Language (KQL) overview](/en-us/kusto/query/?view=microsoft-sentinel&amp;preserve-view=true).
 
-    Other resources:
+  Other resources:
 
-    - [KQL quick reference](/en-us/kusto/query/kql-quick-reference?view=microsoft-sentinel&amp;preserve-view=true)
-    - [Kusto Query Language learning resources](/en-us/kusto/query/kql-learning-resources?view=microsoft-sentinel&amp;preserve-view=true)
+  - [KQL quick reference](/en-us/kusto/query/kql-quick-reference?view=microsoft-sentinel&amp;preserve-view=true)
+  - [Kusto Query Language learning resources](/en-us/kusto/query/kql-learning-resources?view=microsoft-sentinel&amp;preserve-view=true)
 
 ## Enrich alerts with entities and other details
 
 1. Under **Alert enrichment**, keep the **Entity mapping** settings as they are. Note the three mapped entities.
 
-    ![Screenshot of existing entity mapping settings.](media/tutorial-log4j-detection/entity-mappings.png)
+   ![Screenshot of existing entity mapping settings.](media/tutorial-log4j-detection/entity-mappings.png)
+
 2. In the **Custom details** section, let's add the timestamp of each occurrence to the alert, so you can see it right in the alert details, without having to drill down.
 
     1. Type **timestamp** in the **Key** field. This will be the property name in the alert.
     2. Select **timestamp** from the **Value** drop-down list.
+
 3. In the **Alert details** section, let's customize the alert name so that the timestamp of each occurrence appears in the alert title.
 
     In the **Alert name format** field, enter **Log4j vulnerability exploit aka Log4Shell IP IOC at {{timestamp}}**.
